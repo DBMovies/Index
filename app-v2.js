@@ -39,7 +39,7 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
     <div class="navSize">
-			<a href="/"><img class="avatar" src="https://www.crushpixel.com/big-static16/preview4/initial-monogram-letter-d-b-2473393.jpg"/></a>
+			<a href="/"><img class="avatar" src="https://cdn.jsdelivr.net/gh/dbmovies/index/DBMovies.JPG"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="My Blog Link" target="_blank">Blog</a></li>
